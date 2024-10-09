@@ -1,0 +1,2 @@
+# mastonBot
+Mastodon Bot
